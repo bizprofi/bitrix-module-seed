@@ -1,5 +1,5 @@
 <?php
 
-$magnifico_site_default_option = [
+$bizprofi_seed_default_option = [
 
 ];
